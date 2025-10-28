@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Paquete de Emil",                                  # Nombre del paquete
-    version="0.1.0",                                         # Versión inicial
+    name="paqueteEmil",                                      # Nombre del paquete
+    version="0.1.1",                                         # Versión inicial
     packages=find_packages(),                                # Paquetes a incluir
     description="Un paquete pip simple de saludo",           # Breve descripción
     author="Emil Colina",                                    # Tu nombre
