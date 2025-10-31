@@ -1,7 +1,0 @@
-README.md
-setup.py
-Paquete_de_Emil.egg-info/PKG-INFO
-Paquete_de_Emil.egg-info/SOURCES.txt
-Paquete_de_Emil.egg-info/dependency_links.txt
-Paquete_de_Emil.egg-info/top_level.txt
-primer-paquete-pip/__init__.py
